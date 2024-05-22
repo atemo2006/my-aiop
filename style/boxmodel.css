@@ -1,0 +1,21 @@
+body{
+    background-color: dimgrey;
+}
+.small{
+    color: crimson;
+    background-color: blue;
+    text-align: center;
+    border: 2px double red;
+}
+.cat{
+    color: blueviolet;
+    background-color: chartreuse;
+    text-align: center;
+    border: 2px dotted indigo;
+}
+.joey{
+    color: brown;
+    background-color: orange;
+    text-align: center;
+    border: 2px solid blue;
+}

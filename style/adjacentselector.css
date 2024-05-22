@@ -1,0 +1,37 @@
+h1+p{
+    color: chartreuse;
+}
+
+span+h1{
+    color: deeppink;
+}
+h2+p{
+    color: aqua;
+}
+p+h2{
+    color: yellow;
+}
+h3+p{
+    color: orange;
+}
+p+h3{
+    color: chartreuse;
+}
+h4+p{
+    color: darksalmon;
+}
+p+h4{
+    color: green;
+}
+h5+p{
+    color: blue;
+}
+p+h5{
+    color: magenta;
+}
+h6+p{
+    color: darkcyan;
+}
+p+h6{
+    color: indigo;
+}

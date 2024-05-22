@@ -1,0 +1,23 @@
+body{
+    background-color: gold;
+}
+h1{
+    color: crimson;
+    background-color: black;
+    text-align: center;
+}
+h3{
+    color: crimson;
+    background-color: black;
+    text-align: center; 
+}
+p{
+    color: crimson;
+    background-color: black;
+    text-align: center;
+}
+img{
+     border-radius: 50%;
+     width: 300px;
+     height: 300px;
+}

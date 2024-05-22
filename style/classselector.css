@@ -1,0 +1,66 @@
+body{
+    background-color: chartreuse;
+}
+/* h1{
+    color: blue;
+    background-color: crimson;
+    border: 5px solid black;
+}
+img{
+    border-radius: 100%;
+    width: 300px;
+    height: 400px;
+    border: 5px solid black;
+}
+p{
+    color: maroon;
+    background-color: aqua;
+    text-align: center;
+    border: 5px solid black;
+} */
+
+.wuse{
+    color: palevioletred;
+    background-color: purple;
+    text-align: center;
+}
+.utako{
+    color: orangered;
+    background-color: fuchsia;
+    text-align: right;
+}
+.mpape{
+    border-radius: 50%;
+    width: 400px;
+    height: 300px;
+}
+.green{
+    color: blueviolet;
+    background-color: brown;
+    text-align: center;
+}
+.irish{
+    color: white;
+    background-color: indigo;
+    text-align: center;
+}
+.abaji{
+    border-radius: 100%;
+    width: 700px;
+    height: 300px;
+}
+.parrot{
+    border-radius: 70%;
+    width: 600px;
+    height: 700px;
+}
+.ocean{
+    color: blue;
+    background-color: orange;
+    text-align: center;
+}
+.ben{
+    color: burlywood;
+    background-color: firebrick;
+    text-align: center;
+}

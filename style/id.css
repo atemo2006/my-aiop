@@ -1,0 +1,47 @@
+body{
+    background-color: crimson;
+}
+#lean{
+    color: blue;
+    background-color: gold;
+    text-align: center;
+}
+#cheetah{
+    border-radius: 50%;
+    width: 500px;
+    height: 600px;
+}
+#squirrel{
+    border-radius: 100%;
+    width: 400px;
+    height: 500px;
+}
+#text{
+    color: cadetblue;
+    background-color: green;
+    text-align: initial;
+}
+#small{
+    color: blueviolet;
+    background-color: orange;
+    text-align: start;
+}
+#word{
+    color: darksalmon;
+    background-color: dodgerblue;
+    text-align: inherit;
+}
+#stare{
+    color: lime;
+    background-color: fuchsia;
+    text-align: end;
+}
+#letter{
+    color: yellow;
+    background-color: blueviolet;
+}
+#rodent{
+    color: deeppink;
+    background-color: peachpuff;
+    text-align: unset;
+}

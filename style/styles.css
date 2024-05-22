@@ -1,0 +1,54 @@
+body{
+    background-color: blue;
+}
+div h1{
+    color: red;
+    font-size: 36px;
+}
+div p{
+    color: blue;
+    font-size: 20px;
+}
+ul{
+    height: 150px;
+    width: 100%;
+    background-color: darkred;
+    text-align: center;
+}
+ul li{
+display: inline-block;
+padding-top: 70px;
+}
+ul li a{
+    text-decoration: none;
+    background-color: blue;
+    padding: 15px;
+    border-radius: 5px;
+}
+h1,h2,h3,p{
+    color: darkred;
+    background-color: black;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+h1,h2,h3,img,p,ul,li{
+    border: 5px solid red;
+}
+#wildcats{
+    color: blue;
+    background-color: black;
+    text-align: center;
+
+}
+.tiger{
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-radius: 5px double green;
+}
+
+

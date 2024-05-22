@@ -1,0 +1,24 @@
+div h1{
+    color: red;
+    font-size: 36px;
+}
+div p{
+    color: yellow;
+    font-size: 20px;
+}
+ul{
+    height: 150px;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+}
+ul li{
+display: inline-block;
+padding-top: 70px;
+}
+ul li a{
+    text-decoration: none;
+    background-color: chartreuse;
+    padding: 15px;
+    border-radius: 5px;
+}
